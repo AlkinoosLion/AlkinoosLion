@@ -15,5 +15,8 @@
 - **Contact:** [LinkedIn Profile](Your-Link-Here)
 
 ## 🛠 Languages and Tools
+<div align="center">
 
   [![My Skills](https://skillicons.dev/icons?i=androidstudio,bash,cpp,dart,flutter,docker,express,figma,firebase,github,grafana,java,nodejs,linux,mysql,postman,prometheus,py,react,c&perline=10)](https://skillicons.dev)
+  
+</div>
