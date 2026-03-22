@@ -11,8 +11,8 @@
 </div>
 
 - ##### **Current Project:** Leading a small team of developers building custom software.
-- **Goal:** Actively looking for an internship opportunity.
-- **Contact:** [LinkedIn Profile](Your-Link-Here)
+- ##### **Goal:** Actively looking for an internship opportunity.
+- ##### **Contact:** [LinkedIn Profile](Your-Link-Here)
 
 ## 🛠 Languages and Tools
 <div align="center">
