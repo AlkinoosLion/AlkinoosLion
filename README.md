@@ -1,6 +1,6 @@
-## <center>Hi, i'm Alkinoos Lionakis</center>
+<center>## Hi, i'm Alkinoos Lionakis</center>
 
-### <center>Electrical and Computer Engineer @</center>
+<center>### Electrical and Computer Engineer @</center>
 ### <center>National Technichal University of Athens</center>
 
 ### <center>Cybersecurity enthousiast, passionate about computer networks and ...</center>
