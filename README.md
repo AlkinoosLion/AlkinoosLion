@@ -12,7 +12,7 @@
 
 - ##### **Current Project:** Leading a small team of developers building custom software.
 - ##### **Goal:** Actively looking for an internship opportunity.
-- ##### **Contact:** ([Your-Link-Here](https://www.linkedin.com/in/alkinoos-lionakis-401890323/))
+- ##### **Contact:** [LinkedIn Profile](https://www.linkedin.com/in/alkinoos-lionakis-401890323/)
 
 ## 🛠 Languages and Tools
 <div align="center">
