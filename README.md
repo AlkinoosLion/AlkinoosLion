@@ -2,7 +2,7 @@
 
 # Hi, I'm Alkinoos Lionakis
 ### Electrical and Computer Engineer
-#### @ National Technical University of Athens
+### @ National Technical University of Athens
 
 *Cybersecurity enthusiast, committed to mastering the complexities of computer networks and their role in secure systems.*
 
