@@ -10,7 +10,7 @@
 
 </div>
 
-- ##### **Current Project:** Leading a small team of developers building custom software.
+- ##### **Current Project:** Leading a small team of developers building custom software using a react and flutter frontend with an Express.js backend
 - ##### **Goal:** Actively looking for an internship opportunity.
 - ##### **Contact:** [LinkedIn Profile](https://www.linkedin.com/in/alkinoos-lionakis-401890323/)
 
