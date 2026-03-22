@@ -1,8 +1,9 @@
-## Hi, i'm Alkinoos Lionakis
+## <center>Hi, i'm Alkinoos Lionakis</center>
 
-### Electrical and Computer Engineer at National Technichal University of Athens
+### <center>Electrical and Computer Engineer @</center>
+### <center>National Technichal University of Athens</center>
 
-### Cybersecurity enthousiast, passionate about computer networks and ...
+### <center>Cybersecurity enthousiast, passionate about computer networks and ...</center>
 
 - Currently leading a small team of developers, building a software
 - Looking to do internship
@@ -10,4 +11,4 @@
 
   ## Languages and Tools
 
-  [![My Skills](https://skillicons.dev/icons?i=androidstudio,bash,cpp,dart,flutter,docker,express,figma,firebase,github,grafana,java,nodejs,linux,mysql,postman,prometheus,py,react,c&perline=5)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=androidstudio,bash,cpp,dart,flutter,docker,express,figma,firebase,github,grafana,java,nodejs,linux,mysql,postman,prometheus,py,react,c&perline=10)](https://skillicons.dev)
