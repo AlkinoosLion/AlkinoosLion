@@ -1,4 +1,16 @@
-## Hi there 👋
+## Hi, i'm Alkinoos Lionakis
+
+### Electrical and Computer Engineer at National Technichal University of Athens
+
+### Cybersecurity enthousiast, passionate about computer networks and ...
+
+- Currently leading a small team of developers, building a software
+- Looking to do internship
+- How to reach me: LinkedIn link
+
+  ## Languages and Tools
+
+  cpp
 
 <!--
 **AlkinoosLion/AlkinoosLion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
