@@ -1,5 +1,5 @@
 <p align="center">
-  [cite_start]<h2>Hi, I'm Alkinoos Lionakis</h2>
+  <h2>Hi, I'm Alkinoos Lionakis</h2>
   <h3>Electrical and Computer Engineer @</h3>
   <h3>National Technical University of Athens</h3>
   <i>Cybersecurity enthusiast, passionate about computer networks and ...</i>
