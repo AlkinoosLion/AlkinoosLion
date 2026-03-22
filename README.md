@@ -1,12 +1,14 @@
-<p align="center">
-  <h2>Hi, I'm Alkinoos Lionakis</h2>
-  <h3>Electrical and Computer Engineer @</h3>
-  <h3>National Technical University of Athens</h3>
-  <i>Cybersecurity enthusiast, commited to mastering </i>
-  <i>the complexities of computer networks and their role in secure systems.</i>
-</p>
+<div align="center">
+
+# Hi, I'm Alkinoos Lionakis
+### Electrical and Computer Engineer
+#### @ National Technical University of Athens
+
+*Cybersecurity enthusiast, committed to mastering the complexities of computer networks and their role in secure systems.*
 
 ---
+
+</div>
 
 - **Current Project:** Leading a small team of developers building custom software.
 - **Goal:** Actively looking for an internship opportunity.
